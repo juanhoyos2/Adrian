@@ -4,5 +4,6 @@ class Saludo
   static void Main({}args)
   {
     Console.WriteLine("Hola Mundo");
+    Console.WriteLine("Hola Mundo2");
   }
 }

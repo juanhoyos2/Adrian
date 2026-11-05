@@ -1,0 +1,8 @@
+using system;
+class Saludo
+{
+  static void Main({}args)
+  {
+    Console.WriteLine("Hola Mundo");
+  }
+}
